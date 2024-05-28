@@ -1,0 +1,20 @@
+.{
+    margin: 0;
+    padding: 0;
+    boc-sizing: border-box;
+}
+
+.bg-dark{
+    background-colour: #00008B;
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+#canvas{
+    border: 2px solid black;
+}
+
+.selectpicker form-control{
+    text-align: center;
+}
